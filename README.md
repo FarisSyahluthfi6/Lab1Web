@@ -1,16 +1,12 @@
 # Lab1web
 
 | Nama= Faris Syahluthfi      | 
-| ----------------------------|
 | NIM= 312010034              | 
-| ----------------------------|
 | Kelas= TI.20.A.1            |
-| ----------------------------|
 | Matkul= Pemrograman Web     |
-| ----------------------------|
 
 ## Paragraf
-![img]screenshot/Membuat Paragraf.png
+![Membuat_Paragraf.PNG](img/Membuat_Paragraf.PNG)
 Ini adalah sebuah hasil dari texs Kodingan tag <p>
  Dan Ini Adalah Codingan Dari Gambar Diatas
 
