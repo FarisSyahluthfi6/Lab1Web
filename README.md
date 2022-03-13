@@ -9,7 +9,7 @@
 | Matkul= Pemrograman Web     |
 |=============================|
 
-## Paragraf
+## 1. Membuat Paragraf
 ![Membuat_Paragraf](screenshot/Membuat_Paragraf.PNG)
 
 Ini adalah sebuah hasil dari texs Kodingan tag membuat paragraf<p>
@@ -57,6 +57,47 @@ p {
     
 </HTMl>
 ```
+
+## 2. Membuat Judul
+![Membuat_Judul](screenshot/Membuat_Judul.PNG)
+
+Ini adalah sebuah hasil dari texs Kodingan tag membuat paragraf<p>
+ Dan Ini Adalah program codingan dari tag membuat paragraf:
+
+ ```html
+
+<!DOCTYPE html >
+<HTMl>
+    <head>
+        <title>Membuat Judul</title>
+    <style>
+body {
+
+    color: red;
+}
+h1 {
+	color: #ff00b3;
+}
+p {
+	color: rgb(36, 85, 177)
+}
+
+    </style>
+    </head>
+    <body>
+<!-- judul paragraf pertama -->
+<h1><center>Biodata Faris Syahluthfi</center></h1>
+
+
+<!-- judul paragraf kedua -->
+<h2><center>My Profil</center></h2>
+
+</body>
+    
+</HTMl>
+ ```
+
+
 ## Memformat teks
 ![Memformat_teks](screenshot/Memformat_Teks.PNG)
 
