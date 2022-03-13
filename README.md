@@ -12,8 +12,8 @@
 ## Paragraf
 ![Membuat_Paragraf](screenshot/Membuat_Paragraf.PNG)
 
-Ini adalah sebuah hasil dari texs Kodingan tag <p>
- Dan Ini Adalah Codingan Dari Gambar Diatas
+Ini adalah sebuah hasil dari texs Kodingan tag membuat paragraf<p>
+ Dan Ini Adalah program codingan dari tag membuat paragraf:
 
 ```html
 <!DOCTYPE html >
@@ -57,81 +57,65 @@ p {
     
 </HTMl>
 ```
-## Teks Format
-![Teks_Format.png](img/Teks_Format.png)
+## Memformat teks
+![Memformat_teks](screenshot/Memformat_Teks.PNG)
 
 Ini adalah Contoh dari Teks format seperti Menambahkan (Span) Untuk Warna Teks atau sebuah background
 ## Contoh Kode
 ```Html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tag Dasar HTML</title>
-</head>
-<body>
-<!-- Judul Paragraf Pertama -->
-<h1>Belajar Dasar Html</h1>
-<!-- Paragraf Pertama -->
-<p align="center">Saya Adalah  <Span style="background-color: red;">Mahsiswa Universitas Pelita Bangsa Jurisan
-    Teknik Informatika </Span> 
-<!-- Judul Paragraf kedua -->
-<h2>Paragraf Pada Html</h2>
-<!-- Paragraf Kedua -->
-<p align="right">Html Sendiri Adalah <b>Struktur</b>  atau kerangka dalam <u>membuat website</u> 
-     yang terdiri anak head dan <i>tag penutup html </i></p>                                             
-   
-</body>
-</html>
-```
-## Menambahkan Logo UPB
-![Menambahkan_Fot0](img/Menambahkan_Foto.png)
-ini adalah tag Bagaimana Menambahkan foti Kedalam html yaitu dengan menggunakan tag (img) Kemduian simpan Pada Folder Yang telah dibuat
+<!DOCTYPE html >
+<HTMl>
+    <head>
+        <title>Memformat teks</title>
+    <style>
+body {
 
-## Contoh Code
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tag Dasar HTML</title>
-</head>
-<body>
-<!-- Judul Paragraf Pertama -->
-<h1>Belajar Dasar Html</h1>
-<!-- Paragraf Pertama -->
-<p align="center">Saya Adalah  <Span style="background-color: red;">Mahsiswa Universitas Pelita Bangsa Jurisan
-    Teknik Informatika </Span> 
-<!-- Judul Paragraf kedua -->
-<h2>Paragraf Pada Html</h2>
-<!-- Paragraf Kedua -->
-<p align="right">Html Sendiri Adalah <b>Struktur</b>  atau kerangka dalam <u>membuat website</u> 
-     yang terdiri anak head dan <i>tag penutup html </i></p>                                                        
-<!-- Sub Judul Paragraf -->
-<h3>Menambahkan Gambar</h3>   
-<!-- Menambahkan gambar pada Paragraf -->
-<img src="img/Menambahkan_gambar.png" alt="Logo Upb" title="Universitas Pelita Bangsa">
+    color: red;
+}
+h1 {
+	color: #ff00b3;
+}
+p {
+	color: rgb(36, 85, 177)
+}
 
-</body>
-</html>
-```
-## Menambahkan Link
-![Menambahkan_link](img/Menambahkan_link.png)
+    </style>
+    </head>
+    <body>
 
-Untuk menambahkan Link menggunakan (img) dan simpan dalam folder yang sesuai
+        <marquee bgcolor="cyan" width="1500">WELCOME TO MY WEB FARIS SYAHLUTHFI</marquee>
 
-## Contoh Kode
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tag Dasar HTML</title>
-</head>
-<body>
+    <!-- Ini adalah paragraf kesatu -->
+    <h1><center>Biodata Faris Syahluthfi</center></h1>
+        <p align=”justify,”>
+            <br><b>Nama: Faris Syahluthfi</b></br>
+            <br><b>Tempat: Jakarta</b></br>
+            <br><b>Tanggal Lahir: 06 April 2002</b></br>
+            <br><b>Alamat: Indramayu</b></br>
+            <br> 
+        </p>
+        
+    <!-- Ini adalah paragraf kedua -->
+    <h2><center>My Profil</center></h2>
+     </p>   
+    <p align=left,”>
+            <br><center><b>Assalamualaikum...</b></center></br>
+            <br><b>Halo semuanya</b> perkenalkan nama saya <b>Faris Syahluthfi.</b>
+            Saya Mahasiswa <b><u>Universitas Pelita bangsa</u></b> prodi <i><b>Teknik Informatika.</b></i> </br>
+            <br>Alhamdulillah sekarang saya sudah kuliah <b><u>Semester 4</u></b> </br>
+            <br>Sekarang saya sedang belajar tentang <b>HTML</b> yang diajarkan oleh dosen saya yang bernama <b><i>Bapak Agung Nugroho,S.Kom.,M.Kom.</i></i></b>
+            yang mengajar matakuliah <b><u>Pemrograman Web</u></b></p> <br>
+
+        </p>
+
+
+
+
+    </body>
+    
+</HTMl>
+
+
 <!-- Menambahkkan link Navigasi  -->
 <nav>
 <a href="tag_Dasar.html">Dasar html </a>
