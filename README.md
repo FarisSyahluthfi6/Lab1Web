@@ -161,8 +161,8 @@ p {
 ## 4. Menyisipkan Gambar
 ![Menyisipkan_Gambar](screenshot/Menyisipkan_Gambar.PNG)
 
-Ini adalah sebuah hasil dari texs Kodingan tag membuat judul<p>
- Dan Ini Adalah program codingan dari tag membuat judul:
+Ini adalah sebuah hasil dari texs Kodingan tag menyisipkan gambar<p>
+ Dan Ini Adalah program codingan dari tag menyisipkan gambar:
 
  ```html
 
@@ -198,3 +198,49 @@ p {
 </HTMl>
 
 ```
+
+## 5. Menambahkan Hyperlink
+![Menambahkan_Hyperlink](screenshot/Menambahkan_Hyperlink.PNG)
+
+Ini adalah sebuah hasil dari texs Kodingan tag menambahkan hyperlink<p>
+ Dan Ini Adalah program codingan dari tag menambahkan hyperlink:
+
+ ```html
+
+<!DOCTYPE html >
+<HTMl>
+    <head>
+        <title>Lab1Web__Faris</title>
+    <style>
+body {
+
+    color: red;
+}
+h1 {
+	color: #ff00b3;
+}
+p {
+	color: rgb(36, 85, 177)
+}
+
+    </style>
+    </head>
+    <body>
+	
+	<!-- menambahkan link navigasi -->
+<nav>
+    <a href="file:///E:/Tugas%20Kuliah/Tugas%20kuliah%20semester%204/Membuat%20WEB/Membuat_Judul.html">Membuat judul</a>
+    <a href="file:///E:/Tugas%20Kuliah/Tugas%20kuliah%20semester%204/Membuat%20WEB/Membuat_Paragraf.html">Membuat Paragraf</a>
+    <a href="file:///E:/Tugas%20Kuliah/Tugas%20kuliah%20semester%204/Membuat%20WEB/Memformat_teks.html">Memformat teks</a>
+    <a href="file:///E:/Tugas%20Kuliah/Tugas%20kuliah%20semester%204/Membuat%20WEB/Menyisipkan_Gambar.html">Meyisipkan gambar</a>
+    <a href="file:///E:/Tugas%20Kuliah/Tugas%20kuliah%20semester%204/Membuat%20WEB/Lab1_Web.html">Halaman Web Eksternal Google</a>
+    </nav>
+    <hr>
+
+
+    </body>
+    
+</HTMl>
+
+```
+
