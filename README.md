@@ -6,7 +6,7 @@
 | Matkul= Pemrograman Web     |
 
 ## Paragraf
-![Membuat_Paragraf.PNG](img/Membuat_Paragraf.PNG)
+![Membuat_Paragraf.PNG](screenshot/Membuat_Paragraf.PNG)
 Ini adalah sebuah hasil dari texs Kodingan tag <p>
  Dan Ini Adalah Codingan Dari Gambar Diatas
 
