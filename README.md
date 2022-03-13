@@ -61,8 +61,8 @@ p {
 ## 2. Membuat Judul
 ![Membuat_Judul](screenshot/Membuat_Judul.PNG)
 
-Ini adalah sebuah hasil dari texs Kodingan tag membuat paragraf<p>
- Dan Ini Adalah program codingan dari tag membuat paragraf:
+Ini adalah sebuah hasil dari texs Kodingan tag membuat judul<p>
+ Dan Ini Adalah program codingan dari tag membuat judul:
 
  ```html
 
@@ -98,7 +98,7 @@ p {
  ```
 
 
-## Memformat teks
+## 3. Memformat teks
 ![Memformat_teks](screenshot/Memformat_Teks.PNG)
 
 Ini adalah Contoh dari Teks format seperti Menambahkan (Span) Untuk Warna Teks atau sebuah background
@@ -156,37 +156,45 @@ p {
     
 </HTMl>
 
+```
 
-<!-- Menambahkkan link Navigasi  -->
-<nav>
-<a href="tag_Dasar.html">Dasar html </a>
-<a href="halaman2.html">halaman2</a>
-<a href="https://github.com/MuhammadRifaiAditiya/Lab1Web">halaman web ekternal google</a>
-<hr>
-</nav>
-<!-- Judul Paragraf Pertama -->
-<h1>Belajar Dasar Html</h1>
-<!-- Paragraf Pertama -->
-<p align="center">Saya Adalah  <Span style="background-color: red;">Mahsiswa Universitas Pelita Bangsa Jurisan
-    Teknik Informatika </Span> 
-<!-- Judul Paragraf kedua -->
-<h2>Paragraf Pada Html</h2>
-<!-- Paragraf Kedua -->
-<p align="right">Html Sendiri Adalah <b>Struktur</b>  atau kerangka dalam <u>membuat website</u> 
-     yang terdiri anak head dan <i>tag penutup html </i></p>                                                        
-<!-- Sub Judul Paragraf -->
-<h3>Menambahkan Gambar</h3>   
-<!-- Menambahkan gambar pada Paragraf -->
-<img src="img/Menambahkan_gambar.png" alt="Logo Upb" title="Universitas Pelita Bangsa">
+## 4. Menyisipkan Gambar
+![Menyisipkan_Gambar](screenshot/Menyisipkan_Gambar.PNG)
 
+Ini adalah sebuah hasil dari texs Kodingan tag membuat judul<p>
+ Dan Ini Adalah program codingan dari tag membuat judul:
 
+ ```html
 
+<!DOCTYPE html >
+<HTMl>
+    <head>
+        <title>Menyisipkan gambar</title>
+    <style>
+body {
 
+    color: red;
+}
+h1 {
+	color: #ff00b3;
+}
+p {
+	color: rgb(36, 85, 177)
+}
 
-</body>
-</html>
+    </style>
+    </head>
+    <body>
 
+<!-- sub judul paragraf -->
+<h1>Menambahkan Gambar</h1>
+<!-- menambahkan gambar pada dokumen -->
+<p>
+    <img src="Farisss.jpg" alt="Foto_Faris_Syahluthfi" style="width:300px;height:200px;" align="middle">
+ </p>
 
-
+    </body>
+    
+</HTMl>
 
 ```
